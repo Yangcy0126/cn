@@ -53,6 +53,25 @@ date_format = "Jan 2006"
 #  date_end = "2017-12-21"
 #  description = ""
 
+
+[[item]]
+  publication_name = "中国数字普惠金融的发展模式探究：经济与民生的视角"
+  publication_url = ""
+  writer_names = "曾燕, 查佳婧, 杨海生, **杨存奕（通讯作者）**(2024)."
+  organization = "《经济研究》, 59(8), 39-56"
+
+[[item]]
+  publication_name = "数字平台推荐机制、专业化生产与消费者福利"
+  publication_url = ""
+  writer_names = "廖高可, **杨存奕**, 顾明瑞(2024)."
+  organization = "《系统工程理论与实践》, 录用待刊"
+
+[[item]]
+  publication_name = "企业金融化: 最优配置, 动机判别与适度区域"
+  publication_url = "https://doi.org/10.12011/SETP2022-1728"
+  writer_names = "黄哲豪, **杨存奕**, 李正辉 (2023)."
+  organization = "《系统工程理论与实践》, 43(6), 1545-1567"
+  
 [[item]]
   publication_name = "Digitalization of banks and inclusive finance: New insights from cultural industry’s financing constraints."
   publication_url = "https://doi.org/10.1111/fire.12404"
