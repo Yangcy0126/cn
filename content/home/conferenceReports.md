@@ -21,26 +21,26 @@ date_format = "Jan 2006"
 +++
 
 
-中国经济学年会 (第二十四届，北京，2024)
+中国经济学年会（第二十四届，北京，2024）
 
-中国金融学年会 (第二十一届，广州，2024；第二十届，北京，2023)
+中国金融学年会（第二十一届，广州，2024；第二十届，北京，2023）
 
-Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, (5th in Wuhan 2023；6th in Nanjing 2024)
+中国优选法统筹法与经济数学研究会量化金融与保险分会学术年会（第六届，南京，2024；第五届，武汉，2023）
 
-Theoretical Foundations of Digital Economy Forum (1st in Beijing 2024)
+数字经济基础理论论坛（第一届，北京，2024）
 
-Internet and Digital Economy Forum (6th in Beijing 2024；5th in Changsha 2023)
+互联网与数字经济论坛（第六届，北京，2024；第五届，长沙，2023）
 
-Risk Management and Financial Statistics Forum (9th in Guangzhou 2024；7th in Guangzhou 2022；6th in Xiamen 2021)
+风险管理与金融统计论坛（第九届，广州，2024；第七届，广州，2022；第六届，厦门，2021）
 
-Greater Bay Area Digital Finance Forum (1st in Guangzhou 2024)
+粤港澳大湾区数字金融论坛（第一届，广州，2024）
 
-Annual Conference of Chinese Fintech (7th in Guangzhou 2023)
+中国金融科技学年会（第七届，广州，2023）
 
-Symposium on Frontier Issues of Industrial Integration by the Chinese Society of Industrial Economics (1st in Guangzhou 2023)
+中国工业经济学会产业融合前沿问题研讨会（第一届，广州，2023）
 
-Quarterly Journal of Finance Forum (1st in Guangzhou 2023)
+《金融学季刊》论坛（第一届，广州，2023）
 
-Monetary Policy Issues and Challenges for Asian Economies International Conference (Online 2021)
+Monetary Policy Issues and Challenges for Asian Economies International Conference（线上，2021）
 
-Annual Conference of Chinese Statistical Society (8th in Chengdu 2021)
+中国统计学年会（第八届，成都，2021）
