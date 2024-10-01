@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Teaching Assistant"
+title = "助教经历"
 subtitle = ""
 
 # Date format
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 +++
 
-“Digital Finance and Insurance”, 2024, Instructor: Prof. Yan Zeng 
+“数字金融与保险”, 2024, 授课老师: 曾燕教授 
 
-“Management of New Transformations”, 2023, Instructor: Prof. Mingkang Liu (Former Chairman of China Banking Regulatory Commission) 
+“对新变革的管理”, 2023, 授课老师: 刘明康教授 
 
