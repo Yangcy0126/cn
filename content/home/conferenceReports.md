@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
-title = "Conference Reports"
+title = "会议报告"
 subtitle = ""
 
 # Date format
@@ -21,17 +21,17 @@ date_format = "Jan 2006"
 +++
 
 
-China Economic Annual Conference (24th in Beijing 2024)
+中国经济学年会 (第二十四届，北京，2024)
 
-China Finance Annual Conference (21st in Guangzhou 2024; 20th in Beijing 2023)
+中国金融学年会 (第二十一届，广州，2024；第二十届，北京，2023)
 
-Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, (5th in Wuhan 2023; 6th in Nanjing 2024)
+Annual Conference of Quantitative Finance and Insurance Section of Chinese Society of Optimization, Overall Planning and Economical Mathematics, (5th in Wuhan 2023；6th in Nanjing 2024)
 
 Theoretical Foundations of Digital Economy Forum (1st in Beijing 2024)
 
-Internet and Digital Economy Forum (6th in Beijing 2024; 5th in Changsha 2023)
+Internet and Digital Economy Forum (6th in Beijing 2024；5th in Changsha 2023)
 
-Risk Management and Financial Statistics Forum (9th in Guangzhou 2024; 7th in Guangzhou 2022; 6th in Xiamen 2021)
+Risk Management and Financial Statistics Forum (9th in Guangzhou 2024；7th in Guangzhou 2022；6th in Xiamen 2021)
 
 Greater Bay Area Digital Finance Forum (1st in Guangzhou 2024)
 
