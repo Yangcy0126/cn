@@ -23,21 +23,21 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "**Managing Editor** for _Journal of Economic Analysis_ and _Economic Analysis Letters_"
+  description = "**管理编辑**：_Journal of Economic Analysis_ and _Economic Analysis Letters_。"
  
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "**Leading Guest Editor** for Special Issue [Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)"
+  description = "**客座编辑**：特刊“[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"
 
 [[item]]
   publication_name = "Introduction to Digital Finance"
   publication_url = ""
   writer_names = "Chapter 3"
   organization = "Peking University Press, 2024"
-  description = "**Reviewer** for _Applied Economics_, _Applied Economics Letters_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Quantitative Finance and Economics_, etc."
+  description = "**审稿人**：_Applied Economics_, _Applied Economics Letters_, _Business Strategy and the Environment_, _China Finance Review International_, _Economic Analysis and Policy_, _Energy Economics_, _Financial Innovation_, _International Review of Financial Analysis_, _Managerial and Decision Economics_, _Quantitative Finance and Economics_等。"
 
 
 
