@@ -27,7 +27,7 @@ date_format = "Jan 2006"
  
 
 [[item]]
-  publication_name = "《数字金融导论？"
+  publication_name = "《数字金融导论》"
   publication_url = ""
   writer_names = "第三章"
   organization = "北京大学出版社，2024"
