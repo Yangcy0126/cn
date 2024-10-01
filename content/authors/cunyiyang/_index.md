@@ -76,4 +76,4 @@ email: ""
 #- Visitors
 ---
 
-中山大学岭南学院2022级博士研究生，目前研究集中于数字金融风险管理的理论与应用。研究兴趣包括数字金融、金融风险以及绿色金融。在《经济研究》《系统工程理论与实践》、_Financial Review_、_International Review of Financial Analysis_、_Technological Forecasting & Social Change_、_Business Strategy and the Environment_、_Energy Economics_ 等期刊上发表了30余篇论文。其中，8篇论文入选ESI高被引论文，9篇入选ESI热点论文。研究工作被引用超过1000次，H指数为19。担任30多本SSCI期刊的审稿人。
+中山大学岭南学院2022级博士研究生，目前研究集中于数字金融风险管理的理论与应用。研究领域为数字金融、金融风险以及绿色金融。在《经济研究》《系统工程理论与实践》、_Financial Review_、_International Review of Financial Analysis_、_Technological Forecasting & Social Change_、_Business Strategy and the Environment_、_Energy Economics_ 等期刊上发表30余篇论文。其中，8篇论文入选ESI高被引论文，9篇入选ESI热点论文，被引用超过1000次，H指数19。担任30多本SSCI期刊的审稿人。
