@@ -23,7 +23,9 @@ date_format = "Jan 2006"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
-  description = "**管理编辑**："""_Journal of Economic Analysis_、_Economic Analysis Letters_。"
+  description = """**管理编辑**：
+  
+  _Journal of Economic Analysis_、_Economic Analysis Letters_。"""
  
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
