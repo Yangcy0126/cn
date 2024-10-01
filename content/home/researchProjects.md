@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Research Projects"
+title = "科研项目"
 subtitle = ""
 
 # Date format
@@ -21,21 +21,21 @@ date_format = "Jan 2006"
 +++
 
 
-National Social Science Fund General Project “The statistical monitoring study on the coordination and balance of digital finance empowerment and risk.” (in progress)
+国家社会科学基金一般项目“数字金融赋能与风险协同平衡的统计监测研究”（进行中）
 
-Guangdong Provincial Natural Science Foundation Excellent Youth Team “Theory and application research on industrial digital finance empowering real economy” (in progress)
+广东省自然科学基金卓越青年团队项目“产业数字金融赋能实体经济的理论与应用研究”（进行中）
 
-National Natural Science Foundation Project “Research on insurance asset allocation based on green development” (in progress)
+国家自然科学基金面上项目“基于绿色发展的保险资产配置研究”（进行中）
 
-Southern Power Grid Energy Development Research Institute Horizontal Project “Study on the financial attributes of corporate data assets” (in progress)
+南方电网能源发展研究院横向项目“企业数据资产财务属性研究”（进行中）
 
-National Social Science Fund General Project “The crowding-out effect and motivation of corporate financialization on R&D innovation” (completed)
+国家社会科学基金一般项目“企业金融化对研发创新的挤出效应及动机研究”（已完成）
 
-Guangdong Financial Society Annual Policy Consultation Topic “Research on financial support for digital transformation of manufacturing industry in Guangdong” (completed)
+广东省金融学会年度政策咨询课题“广东制造业数字化转型的金融支持研究”（已完成）
 
-China Society of Finance Key Topic “Challenges and impacts on traditional financial system in the era of strong AI” (completed)
+中国金融学会重点课题“强人工智能时代对传统金融体系的挑战与影响”（已完成）
 
-National Social Science Fund Youth Project “Statistical monitoring study on systemic risks caused by corporate financialization” (completed)
+国家社会科学基金青年项目“企业金融化引发的系统性风险统计监测研究”（已完成）
 
-Guangdong Province Philosophy and Social Sciences Special “Measurement and prevention research on regional systemic financial risks in Guangdong province” (completed)
+广东省哲学社会科学专项“广东省区域系统性金融风险的测度与防范研究”（已完成）
 
