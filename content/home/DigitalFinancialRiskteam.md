@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 +++
 
-**<a href="https://www.researchgate.net/lab/Digital-Financial-Risk-Lab-Cunyi-Yang" target="_blank">数字金融风险团队</a>**
+**<a href="https://www.researchgate.net/lab/Digital-Financial-Risk-Lab-Cunyi-Yang" target="_blank">数字金融风险团队：</a>**
 
 杨存奕, 中山大学
 
