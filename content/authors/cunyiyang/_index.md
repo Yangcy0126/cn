@@ -1,40 +1,40 @@
 ---
 # Display name
-name: Cunyi YANG
+name: 杨存奕
 
 # Username (this should match the folder name)
 authors:
-- cunyiyang
+- 杨存奕
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Lingnan College
+role: 岭南学院
 
 # Organizations/Affiliations
 organizations:
-- name: Sun Yat-sen University
+- name: 中山大学
   url: "https://www.sysu.edu.cn/sysuen/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: <>
 
 interests:
-- Digital Finance
-- Financial Risk
-- Green Finance
+- 数字金融
+- 金融风险
+- 绿色金融
 
 education:
   courses:
-  - course: PhD in Finance
-    institution: Sun Yat-sen University
+  - course: 博士 金融学
+    institution: 中山大学
     year:
-  - course: Master in Finance
-    institution: Guangzhou University
+  - course: 硕士 金融学
+    institution: 广州大学
     year: 
-  - course: Bachelor in Finance
-    institution: Wuhan University of Technology
+  - course: 本科 金融学
+    institution: 武汉理工大学
     year: 
 
 # Social/Academic Networking
