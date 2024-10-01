@@ -20,16 +20,16 @@ date_format = "Jan 2006"
 
 +++
 
-**Paper Awards：**
+**论文奖：**
 
-“Best Paper Award” in 9th Risk Management and Financial Statistics Forum 
+第九届风险管理与金融统计论坛“最佳论文奖” 
 
-“Best Paper Award - Third Prize” in 4th National Major Strategy and Policy Research Forum
+国家重大战略及政策研究论坛“优秀论文 三等奖”
 
-**Scholarships：**
+**奖学金：**
 
-Sun Yat-sen University President's Scholarship
+中山大学校长奖学金
 
-National Scholarship for Doctoral Students
+博士研究生国家奖学金
 
-National Scholarship for Master's Students
+硕士研究生国家奖学金
