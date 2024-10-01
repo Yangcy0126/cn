@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2024"
   description = """**审稿人**：
   
-  _Applied Economics_、_Applied Economics Letters_、_Business Strategy and the Environment_、_China Finance Review International_、_Economic Analysis and Policy_、_Energy Economics_、_Financial Innovation_、_International Review of Financial Analysis_、_Managerial and Decision Economics_、_Quantitative Finance and Economics_等。"""
+  _Applied Economics_、_Applied Economics Letters_、_Business Strategy and the Environment_、_China Finance Review International_、_Economic Analysis and Policy_、_Energy Economics_、_Financial Innovation_、_International Review of Financial Analysis_、_Managerial and Decision Economics_、_Quantitative Finance and Economics_ 等。"""
 
 
 
