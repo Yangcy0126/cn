@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
-title = "Association Memberships"
+title = "学会会员"
 subtitle = ""
 
 # Date format
@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-Systems Engineering Society of China (SESC)
+中国系统工程学会 (SESC)
 
-Chinese Society of Optimization, Overall Planning and Economical Mathematics (CSOOPEM)
+中国优选法统筹法与经济数学研究会 (CSOOPEM)
 
-China Information Economics Association (CIEA)
+中国信息经济学会 (CIEA)
 
 American Economic Association (AEA)
 
