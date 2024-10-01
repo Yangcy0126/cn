@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Authored Books"
+title = "专著教材"
 subtitle = ""
 
 # Date format
@@ -20,17 +20,17 @@ date_format = "Jan 2006"
  
 
 [[item]]
-  publication_name = "_Industrial Digital Finance Empowering Real Economy Development_"
+  publication_name = "《产业数字金融赋能实体经济发展》"
   publication_url = ""
-  writer_names = "Chapter 5"
-  organization = "Peking University Press, 2025"
+  writer_names = "第五章"
+  organization = "北京大学出版社，2025"
  
 
 [[item]]
-  publication_name = "_Introduction to Digital Finance_"
+  publication_name = "《数字金融导论？"
   publication_url = ""
-  writer_names = "Chapter 3"
-  organization = "Peking University Press, 2024"
+  writer_names = "第三章"
+  organization = "北京大学出版社，2024"
  
 
 
