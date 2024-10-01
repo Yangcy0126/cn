@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: 博士 金融学
+  - course: 金融学 博士
     institution: 中山大学
     year:
-  - course: 硕士 金融学
+  - course: 金融学 硕士
     institution: 广州大学
     year: 
-  - course: 本科 金融学
+  - course: 金融学 本科
     institution: 武汉理工大学
     year: 
 
