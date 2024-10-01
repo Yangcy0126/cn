@@ -20,29 +20,26 @@ date_format = "Jan 2006"
 
 +++
 
+From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
 
-Industrial financialization and systemic risk: Analysis based on the risk transmission mechanism among economic sectors.
+Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers.
 
-Exploring the production-oriented digital transformation in industrial enterprises.
-
-Heterogeneity through motivation: The impact of corporate digital finance on financialization.
-
-Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
-
-The role of digital government on renewable energy development: theory and evidence.
-
-Collateral shocks and corporate risk-taking in China.
-
-Interaction between fintech development and energy transition risks: Towards sustainable governance.
-
-Financial technology and climate risks in financial market.
-
-Climate risk and industry returns: Industry green innovation or carbon market uncertainty.
+How does digital transformation work? A perspective on information management and resource allocation.
 
 The dark side of mitigating risk: Directors’ and officers’ liability insurance and business ethics.
 
-Dynamics between fintech and financial market: Supply-driven or demand-guided?
+Climate risk and industry returns: Industry green innovation or carbon market uncertainty.
 
-How does digital transformation work? A perspective on information management and resource allocation
+Financial technology and climate risks in financial market.
 
-Crowding Out or Crowding In? The Impact of Talent Subsidy Policy on the Income of Low-Skilled Workers
+Interaction between fintech development and energy transition risks: Towards sustainable governance.
+
+Collateral shocks and corporate risk-taking in China.
+
+Refinancing, withdrawing and optimal loan structure: An equilibrium approach.
+
+Heterogeneity through motivation: The impact of corporate digital finance on financialization.
+
+Exploring the production-oriented digital transformation in industrial enterprises.
+
+Industrial financialization and systemic risk: Analysis based on the risk transmission mechanism among economic sectors.
