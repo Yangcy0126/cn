@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: <>
 
-interests:
+研究领域:
 - 数字金融
 - 金融风险
 - 绿色金融
 
-education:
+教育经历:
   courses:
   - course: 金融学 博士
     institution: 中山大学
