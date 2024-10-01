@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "学术经历"
 subtitle = ""
 
 # Date format for experience
@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = ""
-  company = "Lingnan College, Sun Yat-sen University"
+  company = "中山大学岭南学院"
   company_url = ""
-  location = "Guangzhou"
+  location = "广州"
   date_start = "2022-09-01"
   date_end = ""
   description0 = """
@@ -34,20 +34,20 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Visiting Scholar"
-  company = "Business School, The University of Hong Kong"
+  title = "访问学者"
+  company = "香港大学经管学院"
   company_url = ""
-  location = "Hong Kong"
+  location = "香港"
   date_start = "2024-09-01"
   date_end = ""
   description0 = """Taught electronic engineering and researched semiconductor physics."""
 
 
 [[experience]]
-  title = "Visiting Scholar"
-  company = "Fintech Thrust, Hong Kong University of Science and Technology"
+  title = "访问学者"
+  company = "香港科技大学金融科技中心"
   company_url = ""
-  location = "Hong Kong"
+  location = "广州"
   date_start = "2023-10-01"
   date_end = "2024-04-01"
   description0 = """Taught electronic engineering and researched semiconductor physics."""
