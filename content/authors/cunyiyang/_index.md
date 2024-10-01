@@ -15,7 +15,7 @@ role: 岭南学院
 # Organizations/Affiliations
 organizations:
 - name: 中山大学
-  url: "https://www.sysu.edu.cn/sysuen/"
+  url: "https://www.sysu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: <>
