@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 +++
 
-**<a href="https://www.researchgate.net/lab/Digital-Financial-Risk-Lab-Cunyi-Yang" target="_blank">Digital Financial Risk Team</a>**
+**<a href="https://www.researchgate.net/lab/Digital-Financial-Risk-Lab-Cunyi-Yang" target="_blank">数字金融风险Team</a>**
 
-**Team Leader:** Cunyi Yang
+**Team Leader:** 杨存奕
 
 **Members:**
 
