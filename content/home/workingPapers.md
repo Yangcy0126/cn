@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 +++
 
+企业数字化转型的金融支持和路径权衡.
+
+银行数字化转型、信贷与消费.
+
+如何发展工业企业的新质生产力？——生产性数字化转型策略与政策.
+
+生命周期视角下的并购与新质生产力：锦上添花还是雪中送炭？
+
+供需互动视角下的企业大数据应用与新质生产力提升.
+
 From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
 
 Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers.
