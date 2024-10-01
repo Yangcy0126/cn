@@ -10,9 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
-- name: 岭南学院
-  url: "https://lingnan.sysu.edu.cn/"
+role: 岭南学院
   
 # Organizations/Affiliations
 organizations:
