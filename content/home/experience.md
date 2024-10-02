@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "博士生"
-  company = "中山大学岭南学院"
+  company = "中山大学 岭南学院"
   company_url = ""
   location = "广州"
   date_start = "2022-09-01"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "访问学者"
-  company = "香港大学经管学院"
+  company = "香港大学 经管学院"
   company_url = ""
   location = "香港"
   date_start = "2024-09-01"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "访问学者"
-  company = "香港科技大学金融科技中心"
+  company = "香港科技大学 金融科技中心"
   company_url = ""
   location = "广州"
   date_start = "2023-10-01"
