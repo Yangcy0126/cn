@@ -30,6 +30,8 @@ date_format = "Jan 2006"
 
 供需互动视角下的企业大数据应用与新质生产力提升.
 
+Spatial interaction and spillover effects between digital finance and service industry development.
+
 From Policy to Progress: The role of Sci-tech finance projects in key technological innovation.
 
 Crowding Out or Crowding In? The impact of talent subsidy policy on the income of low-skilled workers.
