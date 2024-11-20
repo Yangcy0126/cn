@@ -26,15 +26,30 @@ date_format = "Jan 2006"
   description = """**管理编辑**：
   
   _Journal of Economic Analysis_、_Economic Analysis Letters_。"""
- 
+
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
   publication_url = ""
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
-  
-  特刊“[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
+  _International Journal of Financial Studies_特刊“[New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)”。"""
+
+[[item]]
+  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
+  publication_url = ""
+  writer_names = "Chapter 5"
+  organization = "Peking University Press, 2025"
+  description = """**客座编辑**：
+  _Journal of Risk and Financial Management_特刊“Innovative Approaches to Managing Finance Risks in the FinTech Era”。"""
+
+[[item]]
+  publication_name = "Industrial Digital Finance Empowering Real Economy Development"
+  publication_url = ""
+  writer_names = "Chapter 5"
+  organization = "Peking University Press, 2025"
+  description = """**客座编辑**：
+  _Sustainability Journal_特刊“[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
 
 [[item]]
   publication_name = "Introduction to Digital Finance"
