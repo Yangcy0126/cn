@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
   
-  _International Journal of Financial Studies_特刊“[New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)”。"""
+  _International Journal of Financial Studies_ 特刊“[New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)”。"""
 
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
   
-  _Journal of Risk and Financial Management_特刊“Innovative Approaches to Managing Finance Risks in the FinTech Era”。"""
+  _Journal of Risk and Financial Management_ 特刊“Innovative Approaches to Managing Finance Risks in the FinTech Era”。"""
 
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
   
-  _Sustainability Journal_特刊“[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
+  _Sustainability Journal_ 特刊“[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
 
 [[item]]
   publication_name = "Introduction to Digital Finance"
