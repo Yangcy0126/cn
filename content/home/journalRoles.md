@@ -33,6 +33,7 @@ date_format = "Jan 2006"
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
+  
   _International Journal of Financial Studies_特刊“[New Financial Risks in the FinTech Era](https://www.mdpi.com/journal/ijfs/special_issues/319PDU0WQX)”。"""
 
 [[item]]
@@ -41,6 +42,7 @@ date_format = "Jan 2006"
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
+  
   _Journal of Risk and Financial Management_特刊“Innovative Approaches to Managing Finance Risks in the FinTech Era”。"""
 
 [[item]]
@@ -49,6 +51,7 @@ date_format = "Jan 2006"
   writer_names = "Chapter 5"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
+  
   _Sustainability Journal_特刊“[Digital Economy in Sustainable Resource Risk Management](https://www.mdpi.com/journal/sustainability/special_issues/7Y69M0U22D)”。"""
 
 [[item]]
