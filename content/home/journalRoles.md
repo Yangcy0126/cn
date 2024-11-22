@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   organization = "Peking University Press, 2025"
   description = """**客座编辑**：
   
-  _Journal of Risk and Financial Management_ 专刊“Innovative Approaches to Managing Finance Risks in the FinTech Era”。"""
+  _Journal of Risk and Financial Management_ 专刊“[Innovative Approaches to Managing Finance Risks in the FinTech Era](https://www.mdpi.com/journal/jrfm/special_issues/V8K89X54R3)”。"""
 
 [[item]]
   publication_name = "Industrial Digital Finance Empowering Real Economy Development"
