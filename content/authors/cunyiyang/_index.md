@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-目前研究聚焦于**数字金融风险管理的理论与应用**。
+目前研究聚焦于**数字金融风险管理的理论与应用**。主持国家自然科学基金青年博士生项目“基于金融数字化的宏观经济韧性解构与多维动态提升体系研究”。
 
 以第一或通讯作者在《经济研究》、_Financial Review_、_International Review of Financial Analysis_、_Technological Forecasting & Social Change_、_Business Strategy and the Environment_ 等期刊上发表20余篇论文。其中，9篇入选ESI高被引论文，10篇入选ESI热点论文，被引1200余次，H指数20。兼任20余本SSCI期刊的审稿人。
