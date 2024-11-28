@@ -78,4 +78,4 @@ email: ""
 
 目前研究聚焦于**数字金融风险管理的理论与应用**。
 
-以第一或通讯作者在《经济研究》、_Financial Review_、_International Review of Financial Analysis_、_Technological Forecasting & Social Change_、_Business Strategy and the Environment_ 等期刊上发表20余篇论文。其中，9篇入选ESI高被引论文，10篇入选ESI热点论文，被引1200余次，H指数20。兼任20余本SSCI期刊的审稿人。主持1项国家自然科学基金青年博士生项目。
+以第一或通讯作者在《经济研究》、_Financial Review_、_International Review of Financial Analysis_、_Technological Forecasting & Social Change_、_Business Strategy and the Environment_ 等期刊上发表20余篇论文。其中，9篇入选ESI高被引论文，10篇入选ESI热点论文，被引1200余次，H指数19。兼任20余本SSCI期刊的审稿人。主持1项国家自然科学基金青年博士生项目。
