@@ -23,8 +23,6 @@ date_format = "Jan 2006"
 
 中国优选法统筹法与经济数学研究会 (CSOOPEM)
 
-中国信息经济学会 (CIEA)
-
 American Economic Association (AEA)
 
 American Finance Association (AFA)
